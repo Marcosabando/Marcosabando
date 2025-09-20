@@ -67,4 +67,4 @@
 
 ---
 
-⭐️ From [MarcosAbando](https://github.com/Marcosabando)
+⭐️ [MarcosAbando](https://github.com/Marcosabando)
