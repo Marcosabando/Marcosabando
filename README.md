@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/Marcosabando/github-readme-streak-stats">
-    <img title="🔥 Streak Stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcosabando&theme=great-gatsby&hide_border=true&stroke=0000&background=0D1117"/>
+   <img title="🔥 Streak Stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosAbando&theme=great-gatsby&hide_border=true&background=0D1117"/>
   </a>
 </p>
 
