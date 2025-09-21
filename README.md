@@ -72,6 +72,7 @@
   <a href="https://github.com/Marcosabando"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
   <a href="mailto:marcosbandoo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
   <a href="https://www.youtube.com/@mahtorcio"><img src="https://skillicons.dev/icons?i=youtube" height="50"/></a>
+  <a href="https://www.youtube.com/@mahtorcio" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="youtube" height="50" /></a>
 </p>
 
 ---
