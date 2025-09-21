@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/7j8VzQK/samurai-header.png" alt="Samurai Header" width="100%" />
+</p>
 <h1 align="center">🌸 こんにちは, soy Marcos Abando ⚔️</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎌 Samurai del código & Diseñador digital</h3>
 
