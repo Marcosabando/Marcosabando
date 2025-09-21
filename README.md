@@ -67,11 +67,18 @@
 ## 🌐 Conecta conmigo  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-abando/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="https://github.com/Marcosabando"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-  <a href="mailto:marcosbandoo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://www.youtube.com/@mahtorcio"><img src="https://skillicons.dev/icons?i=youtube" height="50"/></a>
-  <a href="https://www.youtube.com/@mahtorcio" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="youtube" height="50" /></a>
+  <a href="https://www.linkedin.com/in/marcos-abando/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/>
+  </a>
+  <a href="https://github.com/Marcosabando" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50"/>
+  </a>
+  <a href="mailto:marcosbandoo@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="50"/>
+  </a>
+  <a href="https://www.youtube.com/@mahtorcio" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" height="50"/>
+  </a>
 </p>
 
 ---
