@@ -1,18 +1,21 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://i.ibb.co/7j8VzQK/samurai-header.png" alt="Samurai Header" width="100%" />
+  <img src="https://i.ibb.co/YQjWJzC/japan-cyberpunk-dev-banner.gif" alt="Cyber Samurai Dev Banner" width="100%"/>
 </p>
-<h1 align="center">🌸 こんにちは, soy Marcos Abando ⚔️</h1>
-<h3 align="center">💻 Full-Stack Developer | 🎌 Samurai del código & Diseñador digital</h3>
+
+<h1 align="center">🌸 こんにちは, soy <span style="color:#ff4d4d">Marcos Abando</span> ⚔️</h1>
+<h3 align="center">💻 Full-Stack Developer | 🎌 Samurai del Código | 🌐 Cyberpunk Mindset</h3>
 
 ---
 
+<!-- VISITAS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marcosabando&label=Visitas%20al%20dojo&color=ff4d4d&style=flat-square" alt="marcosabando" />
 </p>
 
 ---
 
-### 🏯 Sobre mí  
+## 🏯 Sobre mí  
 - 🎨 Creativo, empático y proactivo  
 - 🧑‍💻 Experiencia en proyectos freelance de **desarrollo web y branding**  
 - 🌱 Actualmente entrenando en el arte de **TypeScript, React y Node.js**  
@@ -21,15 +24,14 @@
 
 ---
 
+<!-- STREAK STATS -->
 <p align="center">
   <a href="https://github.com/Marcosabando/github-readme-streak-stats">
    <img title="🔥 Racha de código" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosAbando&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
-<p align="center">
-  🏆 Logros en la arena del código
-</p>
+<p align="center">🏆 Logros en la arena del código</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Marcosabando&theme=tokyonight&no-bg=true&no-frame=true&row=1)
 
@@ -47,35 +49,27 @@
 ## 🪄 Skills – Técnicas Ninjas  
 
 ### 🖥️ Lenguajes
-<span>
-  <img src="https://img.shields.io/badge/HTML5-ff4d4d?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-ff4d4d?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-ff4d4d?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-ff4d4d?style=for-the-badge&logo=typescript&logoColor=white">
-</span>
+![HTML5](https://img.shields.io/badge/HTML5-ff4d4d?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff4d4d?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff4d4d?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff4d4d?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Frameworks & Librerías
-<span>
-  <img src="https://img.shields.io/badge/React-ff4d4d?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-ff4d4d?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-ff4d4d?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-ff4d4d?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-ff4d4d?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</span>
+![React](https://img.shields.io/badge/React-ff4d4d?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-ff4d4d?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-ff4d4d?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ff4d4d?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ff4d4d?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Bases de Datos
-<span>
-  <img src="https://img.shields.io/badge/MySQL-ff4d4d?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-ff4d4d?style=for-the-badge&logo=mongodb&logoColor=white">
-</span>
+![MySQL](https://img.shields.io/badge/MySQL-ff4d4d?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ff4d4d?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Herramientas del Dojo
-<span>
-  <img src="https://img.shields.io/badge/Git-ff4d4d?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-ff4d4d?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-ff4d4d?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-ff4d4d?style=for-the-badge&logo=postman&logoColor=white">
-</span>
+![Git](https://img.shields.io/badge/Git-ff4d4d?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff4d4d?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-ff4d4d?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff4d4d?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
