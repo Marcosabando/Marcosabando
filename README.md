@@ -1,14 +1,13 @@
-<!-- 🌸 HEADER - PAISAJE JAPONÉS CARTOON -->
+
 <p align="center">
   <img src="https://i.ibb.co/YQjWJzC/japan-cyberpunk-dev-banner.gif" alt="Japanese Landscape Banner" width="100%"/>
 </p>
 
-<h1 align="center">🌸 Hola, soy <span style="color:#ff4d4d">Marcos Abando</span></h1>
+<h1 align="center"> こんにちは, soy <span style="color:#ff4d4d">Marcos Abando</span></h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 Apasionado por el desarrollo web y el diseño digital</h3>
 
 ---
 
-<!-- VISITAS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marcosabando&label=Visitas&color=ff4d4d&style=flat-square" alt="marcosabando" />
 </p>
